@@ -14,3 +14,20 @@ body{
     margin: 0;
     height: 940px;
 }
+
+.caixaEsquerda{
+    background: #a3a2a2;
+    opacity: 0.5;
+    margin-left: -1400px;
+    display: flex;
+    height: 860px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    align-items: center;
+}
+
+.header{
+    padding: 45px;
+    
+}
